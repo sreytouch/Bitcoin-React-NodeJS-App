@@ -1,0 +1,14 @@
+{
+  "name": "crypto-app",
+  "displayName": "crypto-app",
+  "expo": {
+    "name": "Crypto Tracker",
+    "slug": "crypto-app",
+    "version": "1.0.0",
+    "icon": "./src/assets/minecoin.png",
+    "description": "A Crypto Tracker App utilizing CoinGecko API to track the price of cryptocurrencies.",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
