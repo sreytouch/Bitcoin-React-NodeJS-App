@@ -26,11 +26,11 @@
 
 Splash Screen | Home 
 :-------------------------: | :-------------------------: 
-![Preview](/src/Images/1.png) | ![Preview](/src//Images/2.png)
+![Preview](./src/Images/1.png) | ![Preview](./src/Images/2.png)
 
 Crypto Detail  | Transaction
 :-------------------------: | :-------------------------:
-![Preview](/src/Images/3.png) | ![Preview](/src/Images/4.png)
+![Preview](./src/Images/3.png) | ![Preview](./src/Images/4.png)
 
 
 # Building
