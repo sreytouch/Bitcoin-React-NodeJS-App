@@ -3,7 +3,7 @@
 # Crypto-Tracker-App
 
 <p align="center">
-  <img src="./../../src/assets/minecoin.png" alt="Minecoin" width="90" />
+  <img src="./Crypto-Tracker-App/src/assets/minecoin.png" alt="Minecoin" width="90" />
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@ A Crypto Tracker App inspired by SpiralDev's [**CryptoTracker**](https://github.
 
 | Splash Screen  | Sign In | Detail Screen |
 | :-: | :-: | :-: |
-| ![Splash Screen](./../src/assets/screenshot/d_splash.png) | ![Sign In](./../src/assets/screenshot/d_login.png)  |  ![Detail Screen](./../src/assets/screenshot/d_detail.png) |
+| ![Splash Screen](./Crypto-Tracker-App/src/assets/screenshot/d_splash.png) | ![Sign In](./Crypto-Tracker-App/src/assets/screenshot/d_login.png)  |  ![Detail Screen](./Crypto-Tracker-App/src/assets/screenshot/d_detail.png) |
 
 ### Loading Environment Variables
 
@@ -67,8 +67,6 @@ COINGECKO_URL=https://api.coingecko.com
 
 
 # Crypto-Wallet-App
-
-# Crypto Wallet App
 
 > A Crypto Wallet application developed with React Native.
 
@@ -96,11 +94,11 @@ COINGECKO_URL=https://api.coingecko.com
 
 Splash Screen | Home 
 :-------------------------: | :-------------------------: 
-![Preview](./../src/Images/1.png) | ![Preview](./../src/Images/2.png)
+![Preview](./Crypto-Wallet-App/src/Images/1.png) | ![Preview](./Crypto-Wallet-App/src/Images/2.png)
 
 Crypto Detail  | Transaction
 :-------------------------: | :-------------------------:
-![Preview](./../src/Images/3.png) | ![Preview](./../src/Images/4.png)
+![Preview](./Crypto-Wallet-App/src/Images/3.png) | ![Preview](./Crypto-Wallet-App/src/Images/4.png)
 
 
 # Building
