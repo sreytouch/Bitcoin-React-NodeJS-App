@@ -60,7 +60,12 @@ COINGECKO_URL=https://api.coingecko.com
 - [The top 8 React Native chart libraries for 2021](https://blog.logrocket.com/the-top-8-react-native-chart-libraries-for-2021/)
 - [6 Tips to Make Better Dark Theme](https://uxmisfit.com/2020/09/14/ui-tutorial-6-tips-to-make-better-dark-theme/)
 
-
+# 
+# 
+# 
+# 
+# 
+### 
 
 
 
