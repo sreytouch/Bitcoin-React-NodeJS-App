@@ -12,8 +12,6 @@
 
 # Crypto Tracker App
 
-A Crypto Tracker App inspired by SpiralDev's [**CryptoTracker**](https://github.com/SpiralDevelopment/CryptoTracker), built using React Native, utilizing [CoinGecko API](https://www.coingecko.com/api/documentations/v3) to track the price of cryptocurrencies.
-
 
 ## User Stories
 
