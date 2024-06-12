@@ -16,8 +16,6 @@
 
 # Crypto Tracker App
 
-A Crypto Tracker App inspired by SpiralDev's [**CryptoTracker**](https://github.com/SpiralDevelopment/CryptoTracker), built using React Native, utilizing [CoinGecko API](https://www.coingecko.com/api/documentations/v3) to track the price of cryptocurrencies.
-
 
 ## User Stories
 
@@ -32,13 +30,13 @@ A Crypto Tracker App inspired by SpiralDev's [**CryptoTracker**](https://github.
 
 | Prices by Market Cap  | Detail Screen | Sorted By |
 | :-: | :-: | :-: |
-| ![Prices Screen](./../src/assets/screenshot/prices.png) | ![Detail Screen](./../src/assets/screenshot/detail.png) | ![Sorted By](./../src/assets/screenshot/sorted.png) |
+| ![Prices Screen](./Crypto-Tracker-App/src/assets/screenshot/prices.png) | ![Detail Screen](./Crypto-Tracker-App/src/assets/screenshot/detail.png) | ![Sorted By](./Crypto-Tracker-App/src/assets/screenshot/sorted.png) |
 
 ### User Registration
 
 | Splash Screen  | Sign In | Sign Up |
 | :-: | :-: | :-: |
-| ![Splash Screen](./../src/assets/screenshot/splash.png) | ![Sign In](./../src/assets/screenshot/login.png)  |  ![Sign Up](./../src/assets/screenshot/signup.png) |
+| ![Splash Screen](./Crypto-Tracker-App/src/assets/screenshot/splash.png) | ![Sign In](./Crypto-Tracker-App/src/assets/screenshot/login.png)  |  ![Sign Up](./Crypto-Tracker-App/src/assets/screenshot/signup.png) |
 
 
 ### Dark Theme
